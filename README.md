@@ -1,11 +1,11 @@
 <p align="center"><img src="assets/icon.png" width="112" alt="Clayshell icon"></p>
 <h1 align="center">Clayshell</h1>
 <p align="center"><b>Your servers, in one calm place.</b><br>An SSH server manager for Mac and iPhone.</p>
-<p align="center"><a href="https://clayshell.opendmg.app">Website</a> · <a href="https://clayshell.opendmg.app/privacy">Privacy</a> · <a href="https://clayshell.opendmg.app/support">Support</a></p>
+<p align="center"><a href="https://apps.apple.com/app/clayshell/id6819172609"><b>App Store</b></a> · <a href="https://clayshell.opendmg.app">Website</a> · <a href="https://clayshell.opendmg.app/privacy">Privacy</a> · <a href="https://clayshell.opendmg.app/support">Support</a></p>
 
 <p align="center"><img src="assets/hero.gif" width="720" alt="The Clayshell film: a prompt types an ssh command and grows into the terminal, then files, monitoring, PM2 and a lock"></p>
 
-> **Status:** version 1.0 is in App Review. It will be free on the App Store for Mac and iPhone. This page will get the link when it is out.
+> **Free on the App Store for Mac and iPhone:** [Download Clayshell](https://apps.apple.com/app/clayshell/id6819172609)
 
 ## What it does
 
